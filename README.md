@@ -280,15 +280,6 @@ npm run preview  # Preview production build locally
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License - Free for personal and commercial use
-✅ Commercial use    ✅ Modification    ✅ Distribution    ✅ Private use
-```
----
 
 <div align="center">
 
